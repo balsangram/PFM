@@ -253,4 +253,3 @@ Optimized backend using:
 - Location-Based Store Discovery
 - Role & Permission Management
 
-https://github.com/balsangram/pfmImg/blob/22115ea88f052902c77553ee03c23e81cd621701/pfm.png
